@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-#Importing random library
-#import random
 #Importing matplotlib.pyplot for visualisation
 import matplotlib.pyplot
 #Importing class Agent from agentframework.py
